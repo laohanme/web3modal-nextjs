@@ -9,16 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@web3modal/ethereum": "^2.0.0-beta.4",
-    "@web3modal/react": "^2.0.0-beta.4",
+    "@web3modal/ethereum": "^2.0.0-beta.7",
+    "@web3modal/react": "^2.0.0-beta.7",
     "ethers": "^5.7.2",
-    "next": "13.0.3",
+    "next": "13.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "wagmi": "^0.8.4",
+    "wagmi": "0.8.8",
     "web3": "^1.8.1"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.0"
   }
 }
